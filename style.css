@@ -1,0 +1,96 @@
+table {
+    height: 300px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: darkgray;
+}
+
+td {
+    border: 2px solid black;
+    margin: 0px;
+    border-radius: 50%;
+    height: 50px;
+}
+
+input {
+    border: none;
+    text-align: center;
+    width: 100px;
+    margin: 0px;
+    font-size: 15pt;
+}
+
+input#woord.4 {}
+
+{
+    border: 1px black;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90px;
+    font-family: Arial;
+}
+
+input:disabled {
+    background-color: transparent;
+    width: 60px;
+}
+
+td.Guess {
+    width: 100px;
+    border-radius: 50px;
+}
+
+.lingo {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 700px;
+    border-radius: 50%;
+    box-shadow: 20px 0px 0px 11px;
+}
+
+.lingoBox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-top: 80px;
+}
+
+button#check {
+    width: 100px;
+    height: 35px;
+    margin-left: 190px;
+    border-radius: 50px;
+    margin-top: 10px;
+    border: none;
+}
+
+input#woord_0 {
+    position: inherit;
+    float: right;
+    margin-right: 290px;
+    background-color: lightgrey;
+    width: 100px;
+    margin-top: 15px;
+    border: 1px;
+    border-style: solid;
+}
+
+div#Radiobuttons {
+    width: 160px;
+    float: left;
+    margin-right: -60px;
+    margin-top: 230px;
+}
+
+input[type="radio"] {
+    margin-right: -35px;
+}

@@ -478,3 +478,7 @@ var words = [
 	"zeker",
 	"zever",
 	"zeeen"];
+
+var words6 = [
+    "sukkel"
+];

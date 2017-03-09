@@ -1,0 +1,22 @@
+count 
+
+check() {
+
+    // pak de juiste rij op basis van count
+    // maak van de input een array
+
+    if ( check de lengte van array)
+    
+        // loop door de letters heen van mn array
+        
+        
+        count++;
+
+
+        check if game over  
+        
+
+    } else {
+        alert niet goed!!
+    }
+}
